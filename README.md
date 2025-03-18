@@ -92,3 +92,4 @@ This query allows managers to identify which product lines contribute the most t
 
 
 ## Database Information
+The database we are using on the MySQL server is ns_Sp25_21479_Group3.
