@@ -27,8 +27,21 @@ Orders include specific products, so the OrderDetails entity serves as an associ
 In addition, the optical service aspect is covered through the Optometrists entity, which stores details of optometrists affiliated with each store. Each optometrist may issue multiple prescriptions to customers, represented by the one-to-many relationship between Optometrists and Prescriptions. The Prescriptions entity contains important vision data, including sphere, cylinder, axis values, and prescription type for both eyes, linking each prescription to a specific customer and optometrist.
 
 This data model captures the entire customer journey, from initial consultation to product purchase and prescription management, providing LensCrafters with a robust foundation for business operations and data-driven decision-making.
+![image](https://github.com/user-attachments/assets/9d0f57b5-6e82-491c-b7d5-155d017eaeb1)
+
 
 
 ## Data Dictionary
+![image](https://github.com/user-attachments/assets/6897fef7-9703-4ad2-a4f2-2d6fed6c55c6)
+![image](https://github.com/user-attachments/assets/2d270a6a-04cf-41e1-b4fb-6674b90bfcf1)
+![image](https://github.com/user-attachments/assets/71f60b33-f392-47d3-8fa7-51b57a48a963)
+![image](https://github.com/user-attachments/assets/7066f4d0-8ca7-4cc8-adc7-3c95671ba91d)
+![image](https://github.com/user-attachments/assets/8228a22f-3b35-4370-9e18-54bc95d78069)
+
+
+
+
+
+
 ## Queries
 ## Database Information
