@@ -143,4 +143,5 @@ Managers would benefit from Query 10 because late shipments can frustrate custom
 
 ## Database Information
 Database Name: ns_Sp25_21479_Group3
-Each query mentioned above is defined in the database as a stored procedure, which can be invoked using the following syntax: CALL_
+
+Each query mentioned above is defined in the database as a stored procedure, which can be invoked using the following syntax: CALL TP_Q1();
