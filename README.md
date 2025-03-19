@@ -7,7 +7,7 @@ This project involves the development and population of a comprehensive relation
 ##### Nabeel Sadiq [NabeelSadiq](https://www.github.com/Nabeel470)
 ##### Joshua Libatique [JoshuaLibatique](https://www.github.com/jiyuukane)
 ##### Anthony Lopez [AnthonyLopez](https://www.github.com/asl58391)
-##### Ethan Payne
+##### Ethan Payne [EthanPayne](https://github.com/EthanPayne27)
 ##### Claire Stockman [ClaireStockman](https://www.github.com/clairestockman)
 ## Data Model
 Our model is based on the structure of a optical retail business, like LensCrafters. The Location entity represents the physical store locations across different regions. Each location can have multiple employees working within it, which is reflected by the one-to-many relationship between the Locations and Employees entities.
